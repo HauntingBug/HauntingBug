@@ -15,6 +15,7 @@ I've worked with the following programming languages and technologies:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 
+![](https://cdn.discordapp.com/attachments/1237827052674093098/1277250470087364640/image.png?ex=66cc7bb2&is=66cb2a32&hm=2d1082b6857f0bf58bf41e5794bf1398bca8b97ea0d0b7c5565faf22c5a96f24&)
 
 ## My Interests
 
