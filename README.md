@@ -2,9 +2,6 @@
 
 I'm a passionate developer currently pursuing a degree in Computer Systems, with a strong focus on Python.
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/752513508419305529)](https://discord.com/users/752513508419305529)
-
-
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCs2Wdpew0ItUZ_aoiZOdw4g)
 
 ## What I Have Experience In
